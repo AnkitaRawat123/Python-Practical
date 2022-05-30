@@ -1,0 +1,6 @@
+# Show Arithemetic Error
+unit=1
+while unit:
+    unit+=1
+    if unit>200:
+        raise ArithemeticError ('bill')
